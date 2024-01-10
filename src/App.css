@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.hidden {
+  display: none;
+}
+
+/* Style for visible */
+.visible {
+  display: block;
+  /* You can add other styles if needed */
+}
